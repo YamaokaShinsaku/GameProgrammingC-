@@ -1,0 +1,2 @@
+C:\Users\student\Desktop\OpenGL\Game\Debug\Game.exe
+C:\Users\student\Desktop\OpenGL\Game_2\Debug\Game.exe
